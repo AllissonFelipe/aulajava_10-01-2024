@@ -1,5 +1,5 @@
 import java.util.*;
-public class switchcase1 {
+public class SwitchCase1 {
     public static void main(String[] args) {
         Scanner scnTeste = new Scanner(System.in);
         String[] opcoes = {"Criar", "Fechar", "Editar", "Excluir"};
