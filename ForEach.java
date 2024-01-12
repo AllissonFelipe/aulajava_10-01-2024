@@ -1,4 +1,4 @@
-public class foreach {
+public class ForEach {
     public static void main(String[] args) {
         String[] opcoes = {"Carne", "Vegetais", "Frutas", "Limpeza", "Roupas", "Móveis"};
 
