@@ -1,4 +1,4 @@
-public class dowhile1 {
+public class DoWhile1 {
     public static void main(String[] args) {
         int totTempo = 2;
         int contMin = 0;
