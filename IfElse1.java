@@ -1,5 +1,5 @@
 import java.util.*;
-public class ifelse1 {
+public class IfElse1 {
     public static void main(String[] args) {
         boolean sair = false;
         String texto = "Faça o que for necessário para ser feliz. Mas não se esqueça que a felicidade é um sentimento simples, você pode encontrá-la e deixá-la ir embora por não perceber sua simplicidade.\n'Martha Medeiros'";
