@@ -1,5 +1,5 @@
 import java.util.*;
-public class ifelse2 {
+public class IfElse2 {
     public static void main(String[] args) {
         String username = "ABCD";
         String password = "1234";
